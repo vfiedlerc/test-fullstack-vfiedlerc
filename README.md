@@ -48,6 +48,6 @@ Consumir API criada e conter as seguintes interfaces.
 - Aplicação de design patterns;
 - Separação de módulos e componentes;
 - Legibilidade;
-- Criação do ambiente com Docker (se possível).
+- Criação do ambiente com Docker.
 
 ### Boa sorte!
