@@ -40,7 +40,7 @@ Consumir API criada e conter as seguintes interfaces.
 - Após a marcação da data, faça um fork deste repositório; _**Não será possível fazer push no repositório se você cloná-lo.**_
 - Crie uma nova branch;
 - Altere o arquivo README.md com as informações necessárias para executar o seu teste (comandos, migrations, seeds, etc);
-- Depois de finalizado, envie-nos o pull request;
+- Depois de finalizado, envie-nos o pull request (o PR deve ser feito com no mínimo 2 horas de antecedência da entrevista on-line);
 
 ## O que iremos analisar
 
