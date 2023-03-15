@@ -1,3 +1,5 @@
+<img src="https://starti.com.br/wp-content/uploads/2021/09/logo-starti.png"  width="150">
+
 # Starti - CyberSecurity | Teste Desenvolvedor NodeJS FullStack Jr/Pl
 
 ## Introdução
