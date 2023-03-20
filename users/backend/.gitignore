@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+node_modules/
+mysql-data/
+build/
+temp/
+.env
+coverage
+ormconfig.json
+dist
+
+uploads/*
+!uploads/.gitkeep
