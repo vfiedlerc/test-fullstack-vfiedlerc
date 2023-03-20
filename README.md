@@ -2,7 +2,7 @@
 
 1. Run:
 
-   `yarn` or `npm install`
+   `yarn` ou `npm install` na pasta backend e frontend 
 
 ## Running the Docker image
 
@@ -16,7 +16,7 @@
    `yarn typeorm migration:run`
 
 2. Run app:
-   `yarn dev` or `npm run dev`
+   `yarn dev` ou `npm run dev` na pasta backend e yarn start na pasta frontend
 
 ## Use the application
 
@@ -70,6 +70,6 @@
         "name":"admin",
         "password":"admin",
         "email":"admin@admin.com",
-        "admin":true,
+        "admin":true
         }
 
